@@ -1,11 +1,11 @@
 * {
-  background-color: grey;
+  background-color: white;
 }
 
 #name {
 font-family: Times New Roman;
 color: Crimson;
-font-size: 100px;
+font-size: 96px;
 outline-color: red;
 border: 6px solid black;
 text-align: center;
