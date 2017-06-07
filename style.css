@@ -10,3 +10,7 @@ outline-color: red;
 border: 6px solid black;
 text-align: center;
 }
+
+.navtable {
+  border: 1px solid black;
+}
