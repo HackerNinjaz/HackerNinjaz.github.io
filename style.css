@@ -16,12 +16,15 @@
   border: 1px solid black;
   text-align: center;
   vertical-align: center;
-  /*
   position: center;
   padding: 4px;
-  width: 50% */
+  width: 50%;
 }
-
-th.myClass {
+/*
+th.navtable {
 width: 60px;
+}*/
+
+#tbldiv {
+  position: center;
 }
