@@ -13,7 +13,11 @@
 }
 
 .nd {
-    width: 75%; 
+  width: 75%; 
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: center;
+  position: center;
 }
 
 .navtable {
