@@ -9,7 +9,7 @@
   outline-color: red;
   border: 6px solid black;
   text-align: center;
-  margin: 2px, 2px, 0px, 2px;
+  margin: 0px;
 }
 
 .navtable {
@@ -26,5 +26,5 @@ width: 60px;
 }*/
 
 #tbldiv {
-  position: absolute;
+  
 }
