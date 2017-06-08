@@ -19,6 +19,7 @@
   position: center;
   padding: 4px;
   width: 250%;
+  float: left;
 }
 /*
 th.navtable {
