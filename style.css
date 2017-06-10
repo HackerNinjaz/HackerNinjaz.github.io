@@ -22,17 +22,21 @@
   border: 3px solid Crimson; 
 }
 
+.inbox {
+  border: 3px solid black;
+}
+
 tr {
   border: 3px solid Crimson;
-  outline-color: Crimson
+  outline-color: Crimson;
 }
 
 td {
   border: 3px solid Crimson;
-  outline-color: Crimson
+  outline-color: Crimson;
 }
 
 th {
   border: 3px solid Crimson;
-  outline-color: Crimson
+  outline-color: Crimson;
 }
