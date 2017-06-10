@@ -12,17 +12,8 @@
   margin: 0px;
 }
 
-.navtable {
-  border: 1px solid black;
-  text-align: center;
-  vertical-align: center;
-  padding: 4px;
-}
-/*
-th.navtable {
-width: 60px;
-}*/
-
 #navigation {
   border: 5px solid black;
+  text-align: center;
+  vertical-align: center;
 }
